@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Signal Type</string>
+    <string name="find_signs">Find Signs</string>
+    <string name="signs">Signal type no selected</string>
+    <string-array name="type_of_signs">
+        <item>REGLAMENTARIAS</item>
+        <item>PREVENTIVAS</item>
+        <item>INFORMATIVAS</item>
+    </string-array>
+</resources>
